@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11818133ad1e0ec489f369dfde9798b7, type: 3}
+  m_Name: Mango
+  m_EditorClassIdentifier: 
+  plantName: Mango
+  plantPrefabs:
+  - {fileID: 8818709638662582455, guid: 6b80aa75a9b085442beb8808a86cf120, type: 3}
+  - {fileID: 5978084584059091501, guid: a44d839ad046f194c815ef4a55b654b8, type: 3}
+  CropTime: 7
+  CropReward: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11818133ad1e0ec489f369dfde9798b7, type: 3}
+  m_Name: Strawberry
+  m_EditorClassIdentifier: 
+  plantName: Strawberry
+  plantPrefabs:
+  - {fileID: 1080951632737771946, guid: 430e12734495a794f91fbdc4a2d4fd34, type: 3}
+  - {fileID: 3507248984238006406, guid: f9d2634656eba4b4b90bc144cc0ba694, type: 3}
+  CropTime: 3
+  CropReward: 0
